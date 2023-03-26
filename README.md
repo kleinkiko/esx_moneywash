@@ -4,7 +4,6 @@
 Simple Moneywash script with Progressbar and Discord Log :)
 
 **Features:**
-
 1. Washes dirty money instantly
 2. Ability to set multiple washing locations
 3. Ability to change tax rate to give more or less clean money
@@ -13,7 +12,6 @@ Simple Moneywash script with Progressbar and Discord Log :)
 
 
 **Installation:**
-
 1. Add the following to your **server.cfg**
 > start esx_moneywash
 2. Insert esx_moneywash into your /resources/ folder
@@ -22,13 +20,13 @@ Simple Moneywash script with Progressbar and Discord Log :)
 
 
 **Dependencies:**
-
 <a href="https://github.com/Mobius1/rprogress">Progressbar</a>
 
 
 **Credits:**
-
 https://github.com/iTzCrutchie/esx_moneywash by iTzCrutchie (For the Base)
+
 https://github.com/Mobius1/rprogress by Mobius1 (For the Progressbar)
+
 https://de.gta5-mods.com/maps/abandoned-laundromat-interior-singleplayer-fivem-gtadps by gtaDPS (For the MLO)
 
