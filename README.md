@@ -1,5 +1,8 @@
 **ESX_MoneyWash**
 
+**Dependencies:**
+<a href="https://github.com/Mobius1/rprogress">Progressbar</a>
+
 **Details:**
 Simple Moneywash script with Progressbar and Discord Log :)
 
@@ -19,11 +22,8 @@ Simple Moneywash script with Progressbar and Discord Log :)
 4. Restart/Start your server
 
 
-**Dependencies:**
-<a href="https://github.com/Mobius1/rprogress">Progressbar</a>
-
-
 **Credits:**
+
 https://github.com/iTzCrutchie/esx_moneywash by iTzCrutchie (For the Base)
 
 https://github.com/Mobius1/rprogress by Mobius1 (For the Progressbar)
