@@ -1,7 +1,5 @@
 **ESX_MoneyWash**
 
-A money washing script for FiveM. 
-
 **Details:**
 Simple Moneywash script with Progressbar and Discord Log :)
 
@@ -24,9 +22,12 @@ Simple Moneywash script with Progressbar and Discord Log :)
 
 
 **Dependencies:**
+
 <a href="https://github.com/Mobius1/rprogress">Progressbar</a>
 
+
 **Credits:**
+
 https://github.com/iTzCrutchie/esx_moneywash by iTzCrutchie (For the Base)
 https://github.com/Mobius1/rprogress by Mobius1 (For the Progressbar)
 https://de.gta5-mods.com/maps/abandoned-laundromat-interior-singleplayer-fivem-gtadps by gtaDPS (For the MLO)
