@@ -41,7 +41,7 @@ function OpenWashedMenu(zone)
 		
 		ESX.UI.Menu.CloseAll()
 
-		exports.rprogress:Start("Vorbereitung fürs Geldwaschen", 10000)
+		exports.rprogress:Start("Vorbereitung fürs Geldwaschen", 10000) --Remove for no Progressbar
 
 		ESX.UI.Menu.Open('default', GetCurrentResourceName(), 'wash', {
 			title		= _U('washed_menu'),
@@ -60,7 +60,7 @@ function OpenWashedMenu(zone)
 					else
 						--menu.close()
 						ESX.UI.Menu.CloseAll()
-						exports.rprogress:Start("Geld waschen", 10000)
+						exports.rprogress:Start("Geld waschen", 10000) --Remove for no Progressbar
 						TriggerServerEvent('esx_moneywash:washMoney', amount, zone)
 						TriggerServerEvent('esx_moneywash:sendToDiscord', amount)
 					end
